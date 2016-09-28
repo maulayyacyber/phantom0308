@@ -1,0 +1,19 @@
+/**
+* @package      Website Universitas KH. A. Wahab Hasbullah
+* @version      Beta
+* @author       Fika Ridaul Maulayya
+* @copyright    Copyright © 2015 Pondok Kode - Web Project Development.
+* @link         http://pondokkode.com
+*/
+
+/* FLXSLIDER COSTUM */
+	.flexslider .slides .slide-caption, .flexslider2 .slides .slide-caption2 .slide-caption3 {
+		width: 350px;
+		max-width: 32.5%;
+		height: 92.5%;
+	}
+/* END FLXSLIDER COSTUM */
+
+/* BUTTON SHARE */
+
+/* END BUTTON SHARE */
